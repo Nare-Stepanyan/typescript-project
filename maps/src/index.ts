@@ -10,7 +10,7 @@ const company = new Company();
 
 console.log(company);
 
-const customMap = new CustomMap('map', user);
+const customMap = new CustomMap('map', user, company);
 
 console.log(customMap);
 
